@@ -6,6 +6,13 @@ our start page looks like this
 
 This is a basic form where a user can submit their name, age , gender, email and other information to participate in a world trip.
 
+We can fill data in the form which is used later.
+
+pressing the reset button resets the form
+![chrome_umjlfY46iF](https://user-images.githubusercontent.com/106229044/226153751-a1c218f2-c3a0-42d6-a64f-f3349077a759.gif)
+
 The data gained from the form is stored in a sql database
 ![chrome_dxX0heecWG](https://user-images.githubusercontent.com/106229044/226153699-c7b98285-7eea-4192-a24b-6f9ddb569280.gif)
 We see that the data we have stored is present in our sql database. 
+
+
