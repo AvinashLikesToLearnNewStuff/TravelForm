@@ -1,5 +1,5 @@
 # TravelForm
-This is a page which serves as a travel form for a Round the World Trip Travel Event 
+This is a travel page ptoject made with Html, CSS and PHP which serves as a travel form for a Round the World Trip Travel Event. 
 
 our start page looks like this
 ![image](https://user-images.githubusercontent.com/106229044/226153666-d8768f88-658c-412d-84b6-4968c7e41d64.png)
