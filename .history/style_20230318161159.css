@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+}
+
+.container {
+    max-width: 80%;
+    background-color: burlywood;
+    padding: 34px;
+    margin: auto;
+}

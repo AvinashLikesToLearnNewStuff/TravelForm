@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 80%;
+    background-color: burlywood;
+    padding: 34px;
+    margin: auto;
+}
+
+.container h3 {
+    text-align: center;
+    margin: auto;
+}
